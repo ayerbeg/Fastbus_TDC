@@ -1,8 +1,9 @@
-Fastbus_TDC
+#Fastbus_TDC
 
-Fastbus TDC decoder fro JLab CODA DAQ
+##Fastbus TDC decoder for JLab CODA DAQ
 
-Developed by Bib Michael <rom(at)jlab.org>
-Modified by Dasuni Adikaram <dasuni(at)jlab.org> 
+Developed by Bob Michael "rom(at)jlab.org"
+
+Modified by Dasuni Adikaram "dasuni(at)jlab.org"
 
 This version by Carlos Ayerbe Gayoso
